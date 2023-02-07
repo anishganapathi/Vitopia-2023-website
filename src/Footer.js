@@ -80,22 +80,17 @@ export default function Footer() {
               <div className="social_profile">
                 <ul>
                   <li>
-                    <a href="#">
-                      <i className="fab fa-facebook-f" />
+                    <a href="https://vitap.ac.in/">
+                      <i className="fa fa-globe" />
                     </a>
                   </li>
                   <li>
-                    <a href="#">
-                      <i className="fab fa-twitter" />
+                    <a href="https://www.linkedin.com/in/vit-ap-university-6488a1155">
+                      <i className="fab fa-linkedin" />
                     </a>
                   </li>
                   <li>
-                    <a href="#">
-                      <i className="fab fa-google-plus-g" />
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
+                    <a href="https://instagram.com/vitap.vitopia?igshid=YmMyMTA2M2Y=">
                       <i className="fab fa-instagram" />
                     </a>
                   </li>
