@@ -1,10 +1,11 @@
 import React from "react";
 import "./styles.css";
 import "./stylev2.css";
-
+import ScrollToTop from "react-scroll-to-top";
 export default function Nav() {
   return (
     <div>
+      <ScrollToTop smooth />
       <div
         id="NAV-HEAD"
         data-animation="over-left"

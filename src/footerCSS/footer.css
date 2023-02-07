@@ -30,6 +30,8 @@ a:focus {
   -o-transition-duration: 0.2s;
 }
 .white-logo {
+  padding-left: 40px;
+  padding-right: 40px;
   width: 300px;
   margin-top: 20px;
 }
